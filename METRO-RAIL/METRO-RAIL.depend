@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1679043375 source:e:\metro-rail\main.cpp
+	"assistant.h"
+
+1679043368 e:\metro-rail\assistant.h
+	"admin.h"
+
+1679043339 e:\metro-rail\admin.h
+	"user.h"
+
+1679043319 e:\metro-rail\user.h
+	"train.h"
+	"record.h"
+	"virtual.h"
+
+1679043256 e:\metro-rail\train.h
+	"stops.h"
+	<conio.h>
+
+1679043137 e:\metro-rail\stops.h
+	<bits/stdc++.h>
+
+1679043277 e:\metro-rail\record.h
+	<iostream>
+
+1679043300 e:\metro-rail\virtual.h
+	<bits/stdc++.h>
+
+1679043551 source:e:\metro-rail\src\emon.cpp
+	"emon.h"
+
+1679043550 e:\metro-rail\include\emon.h
+
